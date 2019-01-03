@@ -1,0 +1,16 @@
+li{
+    text-align: center;
+    font-size: 1.8125rem;
+    font-weight: 300;
+    color: #1c2c37;
+    text-transform: uppercase;
+    margin-bottom: 32px;
+    background-color: yellow;
+}
+
+
+ul{
+       list-style:none;
+}
+
+/* border: 1px solid black; */
